@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ff7bbd"/>
+      <stop offset="100%" stop-color="#ff3fa1"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)" rx="16"/>
+  <g transform="translate(40,30)">
+    <rect x="0" y="0" width="480" height="300" rx="12" fill="#ffffff" opacity="0.92" />
+    <text x="20" y="36" font-family="Poppins, Arial, sans-serif" font-size="20" fill="#ff3fa1">Helplines & Live Webcam</text>
+    <rect x="24" y="56" width="200" height="140" rx="8" fill="#f8f8f8" stroke="#e0e0e0" />
+    <rect x="240" y="56" width="210" height="140" rx="8" fill="#f8f8f8" stroke="#e0e0e0" />
+    <text x="30" y="86" font-family="Poppins" font-size="12" fill="#333">• Roshni Helpline</text>
+    <text x="30" y="106" font-family="Poppins" font-size="12" fill="#333">• Sneha India</text>
+    <text x="30" y="126" font-family="Poppins" font-size="12" fill="#333">• iCALL</text>
+    <text x="30" y="146" font-family="Poppins" font-size="12" fill="#333">• Vandrevala Foundation</text>
+    <text x="246" y="86" font-family="Poppins" font-size="12" fill="#333">Live Webcam</text>
+    <rect x="252" y="96" width="186" height="104" rx="8" fill="#e9e9e9" stroke="#d0d0d0" />
+    <circle cx="330" cy="148" r="28" fill="#c0c0c0" />
+  </g>
+  <g transform="translate(540,30)">
+    <rect x="0" y="0" width="220" height="380" rx="12" fill="#fff" opacity="0.95" />
+    <text x="16" y="36" font-family="Poppins" font-size="18" fill="#ff3fa1">Your Wellness Companion</text>
+    <rect x="16" y="56" width="188" height="292" rx="8" fill="#f6f6fc" stroke="#f0eef6" />
+    <rect x="26" y="66" width="166" height="48" rx="8" fill="#ffe9f2" />
+    <rect x="26" y="124" width="166" height="48" rx="8" fill="#e6fbff" />
+    <rect x="26" y="182" width="166" height="48" rx="8" fill="#ffe9f2" />
+    <rect x="26" y="240" width="166" height="48" rx="8" fill="#e6fbff" />
+    <rect x="26" y="306" width="166" height="36" rx="8" fill="#fff" stroke="#f0eef6" />
+    <text x="32" y="332" font-family="Poppins" font-size="12" fill="#999">Speak or type how you feel...</text>
+  </g>
+</svg>

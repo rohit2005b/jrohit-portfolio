@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Psychological Advisor Chatbot",
+    "desc": "An AI-based psychological advisor chatbot that provides basic mental health guidance and emotional support through conversational interaction.",
+    "image": "MentalHealth",
+    "category": "ai"
+    
+  },
+  {
+    "name": "Voice Assistant",
+    "desc": "A simple voice assistant capable of performing tasks like searching information, opening applications, and responding to voice commands.",
+    "image": "VA",
+    "category": "ai"
+    
+  },
+  {
+    "name": "IFPRI Website Clone",
+    "desc": "A responsive clone of the IFPRI website, built using HTML, CSS, and JavaScript, showcasing menus, sections, and content similar to the original site.",
+    "image": "ifpri",
+    "category": "basicweb"
+    
+  },
+  {
+    "name": "Snake Game",
+    "desc": "Classic Snake game developed using JavaScript with keyboard controls, score tracking, and increasing difficulty.",
+    "image": "Snakegame",
+    "category": "game"
+    
+  }
+]
+
